@@ -11,3 +11,11 @@ hr {
 h1,h3{
   color: #66BFBF;
 }
+table{
+  height: auto;
+  width: auto;
+}
+form{
+  height: auto;
+  width: auto;
+}
